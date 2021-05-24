@@ -1,3 +1,7 @@
+.siteWrap{
+    width: 1903px;
+}
+
 .mt-5{
     margin-top: 20px;
 }
@@ -6,4 +10,12 @@
 }
 .textCenter{
     text-align: center;
+}
+/* .container>div{
+    margin: 0 auto;
+} */
+.fixPicture{
+    width: 1500px;
+    display: block;
+    margin: auto;
 }
